@@ -1,4 +1,53 @@
 #EXTM3U
-https://play.dnscfly.vip/get.php?username=Luizbarreto&password=qx82lppwxof&type=m3u_plus&output=ts
+
+#EXTINF:-1 tvg-id="Cine Suspense" tvg-name="Cine Suspense" tvg-logo=""
+http://play.dnscfly.vip/live/LuizBarreto/qx82lppwxof/215155.ts
+#EXTINF:-1 tvg-id="Cine Terror" tvg-name="Cine Terror" tvg-logo=""
+http://play.dnscfly.vip/live/LuizBarreto/qx82lppwxof/215207.ts
+#EXTINF:-1 tvg-id="cinemax.br" tvg-name="Cinemax" tvg-logo=""
+http://play.dnscfly.vip/live/LuizBarreto/qx82lppwxof/215224.ts
+#EXTINF:-1 tvg-id="Cinemax | Dual Audio" tvg-name="Cinemax  | Dual Audio" tvg-logo=""
+http://play.dnscfly.vip/live/LuizBarreto/qx82lppwxof/37120.ts
+#EXTINF:-1 tvg-id="cinemax.br" tvg-name="Cinemax - H265" tvg-logo=""
+http://play.dnscfly.vip/live/LuizBarreto/qx82lppwxof/956606.ts
+#EXTINF:-1 tvg-id="cinemax.br" tvg-name="Cinemax FHD" tvg-logo=""
+http://play.dnscfly.vip/live/LuizBarreto/qx82lppwxof/50535.ts
+#EXTINF:-1 tvg-id="Cinemax FHD [L]" tvg-name="Cinemax FHD [L]" tvg-logo=""
+http://play.dnscfly.vip/live/LuizBarreto/qx82lppwxof/40261.ts
+#EXTINF:-1 tvg-id="cinemax.br" tvg-name="Cinemax H265" tvg-logo=""
+http://play.dnscfly.vip/live/LuizBarreto/qx82lppwxof/221866.ts
+#EXTINF:-1 tvg-id="cinemax.br" tvg-name="Cinemax HD" tvg-logo=""
+http://play.dnscfly.vip/live/LuizBarreto/qx82lppwxof/62808.ts
+#EXTINF:-1 tvg-id="Cinemax HD [L]" tvg-name="Cinemax HD [L]" tvg-logo=""
+http://play.dnscfly.vip/live/LuizBarreto/qx82lppwxof/36926.ts
+#EXTINF:-1 tvg-id="combate.br" tvg-name="Combate" tvg-logo=""
+http://play.dnscfly.vip/live/LuizBarreto/qx82lppwxof/221865.ts
+#EXTINF:-1 tvg-id="combate.br" tvg-name="Combate FHD" tvg-logo=""
+http://play.dnscfly.vip/live/LuizBarreto/qx82lppwxof/37119.ts
+#EXTINF:-1 tvg-id="combate.br" tvg-name="Combate H265" tvg-logo=""
+http://play.dnscfly.vip/live/LuizBarreto/qx82lppwxof/38428.ts
+#EXTINF:-1 tvg-id="combate.br" tvg-name="Combate HD" tvg-logo=""
+http://play.dnscfly.vip/live/LuizBarreto/qx82lppwxof/50536.ts
+#EXTINF:-1 tvg-id="comedy.central.br" tvg-name="Comedy Central" tvg-logo=""
+http://play.dnscfly.vip/live/LuizBarreto/qx82lppwxof/36986.ts
+#EXTINF:-1 tvg-id="comedy.central.br" tvg-name="Comedy Central FHD" tvg-logo=""
+http://play.dnscfly.vip/live/LuizBarreto/qx82lppwxof/37118.ts
+#EXTINF:-1 tvg-id="comedy.central.br" tvg-name="Comedy Central H265" tvg-logo=""
+http://play.dnscfly.vip/live/LuizBarreto/qx82lppwxof/40260.ts
+#EXTINF:-1 tvg-id="comedy.central.br" tvg-name="Comedy Central H265" tvg-logo=""
+http://play.dnscfly.vip/live/LuizBarreto/qx82lppwxof/50537.ts
+#EXTINF:-1 tvg-id="comedy.central.br" tvg-name="Comedy Central HD" tvg-logo=""
+http://play.dnscfly.vip/live/LuizBarreto/qx82lppwxof/62813.ts
+#EXTINF:-1 tvg-id="comedy.central.br" tvg-name="Comedy Central | Dual Audio" tvg-logo=""
+http://play.dnscfly.vip/live/LuizBarreto/qx82lppwxof/36925.ts
+#EXTINF:-1 tvg-id="" tvg-name="Como Aprender a Fazer Contas" tvg-logo=""
+http://play.dnscfly.vip/live/LuizBarreto/qx82lppwxof/63258.ts
+#EXTINF:-1 tvg-id="" tvg-name="Como Ensinar a Ler com Música" tvg-logo=""
+http://play.dnscfly.vip/live/LuizBarreto/qx82lppwxof/156921.ts
+#EXTINF:-1 tvg-id="" tvg-name="Compilado de Palavras Simples para Crianças" tvg-logo=""
+http://play.dnscfly.vip/live/LuizBarreto/qx82lppwxof/156920.ts
+#EXTINF:-1 tvg-id="Copa Paulista 01 (B)" tvg-name="Copa Paulista 01" tvg-logo=""
+http://play.dnscfly.vip/live/LuizBarreto/qx82lppwxof/156919.ts
+
 
 
